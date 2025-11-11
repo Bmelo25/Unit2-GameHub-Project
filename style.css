@@ -33,6 +33,11 @@ body{
     color: #ffffff;
 }
 
+.logo:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
 .main-nav a{
     color: #ffffff;
     text-decoration: none;
