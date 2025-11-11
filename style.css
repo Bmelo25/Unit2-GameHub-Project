@@ -39,6 +39,10 @@ body{
     margin-left: 30px;
 }
 
+.main-nav a:hover{
+    color: #3498db;
+}
+
 .hero{
     background-color: #70be93;
     color: #ffffff;
