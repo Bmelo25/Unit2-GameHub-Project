@@ -10,7 +10,7 @@ body{
     color: #333;
 }
 
-.conainer{
+.container{
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
@@ -21,7 +21,7 @@ body{
     padding: 20px 0;
 }
 
-.main-header .conainer{
+.main-header .container{
     display: flex;
     justify-content: space-between;
     align-items: center;
