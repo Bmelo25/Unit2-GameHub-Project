@@ -281,3 +281,17 @@ p {
 .community-content{
     flex-direction: row-reverse;
 }
+
+/* Start of lesson 12 */
+
+.main-footer{
+    background: linear-gradient(135deg, #d75446 40%, #74ea90 70%);
+        color: rgb(0, 0, 0);
+    }
+
+.footer-content{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-bottom: 40px;
+}
